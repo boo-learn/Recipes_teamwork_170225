@@ -13,3 +13,5 @@
 
 ## Рецепт приготовления
 Тут будет рецепт...
+
+![Banano bread!](\Users\dispa\Downloads/bananabread.jpg "Banano bread")
